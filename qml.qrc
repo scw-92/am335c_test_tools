@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Page1Form.ui.qml</file>
+        <file>images/arrow@2x.png</file>
+        <file>images/arrow@3x.png</file>
+        <file>images/arrow@4x.png</file>
+        <file>images/arrows.png</file>
+        <file>images/arrows@2x.png</file>
+        <file>images/arrows@3x.png</file>
+        <file>images/arrows@4x.png</file>
+        <file>images/drawer.png</file>
+        <file>images/drawer@2x.png</file>
+        <file>images/drawer@3x.png</file>
+        <file>images/drawer@4x.png</file>
+        <file>images/menu.png</file>
+        <file>images/menu@2x.png</file>
+        <file>images/menu@3x.png</file>
+        <file>images/menu@4x.png</file>
+        <file>images/qt-logo.png</file>
+        <file>images/qt-logo@2x.png</file>
+        <file>images/qt-logo@3x.png</file>
+        <file>images/qt-logo@4x.png</file>
+        <file>pages/Gpio.qml</file>
+        <file>pages/Port.qml</file>
+        <file>images/ok.png</file>
+        <file>images/ok_1.png</file>
+        <file>images/ok_0.png</file>
+        <file>images/no_avi.png</file>
+        <file>pages/Equipment.qml</file>
+        <file>images/avi.png</file>
+        <file>pages/Protocol.qml</file>
+    </qresource>
+</RCC>
